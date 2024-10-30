@@ -63,7 +63,7 @@ void insercao_ordenada (Lista* lista, No* novo)
 
     lista->tam++;
 }
-
+//preenche a lista encadeada
 void preenche_lista (unsigned int freqbytes[], Lista* lista)
 {
     No* novo;
